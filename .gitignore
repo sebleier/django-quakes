@@ -1,0 +1,6 @@
+*.pyc
+celerybeat-schedule
+local_settings.py
+build
+dist
+django_quakes.egg-info
